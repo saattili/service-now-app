@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Personal details">beb9f31c1b56e510b0dcfcc6cc4bcb96</application>
+        <filter/>
+        <name>Personal details</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_1032326_user_bas.personal_details_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>sredevops_usr03</sys_created_by>
+        <sys_created_on>2023-04-15 21:16:14</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>3eb9f31c1b56e510b0dcfcc6cc4bcb99</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Personal details</sys_name>
+        <sys_package display_value="User base" source="x_1032326_user_bas">08377b941bd2e510b0dcfcc6cc4bcb50</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="User base">08377b941bd2e510b0dcfcc6cc4bcb50</sys_scope>
+        <sys_update_name>sys_ui_module_3eb9f31c1b56e510b0dcfcc6cc4bcb99</sys_update_name>
+        <sys_updated_by>sredevops_usr03</sys_updated_by>
+        <sys_updated_on>2023-04-15 21:16:14</sys_updated_on>
+        <table>x_1032326_user_bas_personal_details</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

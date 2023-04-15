@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Personal details">f6b9f31c1b56e510b0dcfcc6cc4bcb8f</application>
+        <assessment/>
+        <device_type/>
+        <filter table="x_1032326_user_bas_personal_details">stateIN3,4,7^EQ<item display_value="3,4,7" endquery="false" field="state" goto="false" newquery="false" operator="IN" or="false" value="3,4,7"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Closed</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1032326_user_bas_personal_details</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_1032326_user_bas.personal_details_user,x_1032326_user_bas.user base role</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>sredevops_usr03</sys_created_by>
+        <sys_created_on>2023-04-15 21:51:35</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4a91cce01b96e510b0dcfcc6cc4bcbb4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Closed</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="User base" source="x_1032326_user_bas">08377b941bd2e510b0dcfcc6cc4bcb50</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="User base">08377b941bd2e510b0dcfcc6cc4bcb50</sys_scope>
+        <sys_update_name>sys_app_module_4a91cce01b96e510b0dcfcc6cc4bcbb4</sys_update_name>
+        <sys_updated_by>sredevops_usr03</sys_updated_by>
+        <sys_updated_on>2023-04-15 21:51:35</sys_updated_on>
+        <timeline_page/>
+        <title>Closed</title>
+        <uncancelable>false</uncancelable>
+        <view_name>Closed</view_name>
+        <window_name/>
+    </sys_app_module>
+</record_update>

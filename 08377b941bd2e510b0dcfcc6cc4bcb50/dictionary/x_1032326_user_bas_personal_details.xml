@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="0379b3d81b56e510b0dcfcc6cc4bcb96" extends="task" label="Personal details" max_length="40" name="x_1032326_user_bas_personal_details" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Email" mandatory="true" max_length="30" name="u_email" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Phone" mandatory="true" max_length="15" name="u_phone" type="string"/>
+    </element>
+</database>
